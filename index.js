@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Exaroton Cloud","Watching discord.gg/exaroton","Redeem Credits : /giftcode","Playing Minecraft","Watching 56 Guilds"];
+const statusMessages = ["Moderating Atlantean SMP","Watching Atlanteans","AtlanteanSMP.exaroton.me","Competing In Atlantean SMP","Sponsored By KT REWARDS"];
 
 
 let currentIndex = 0;
